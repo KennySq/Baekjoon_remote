@@ -1,0 +1,3 @@
+﻿  MazeSearch.cpp
+C:\Users\Kenny\Documents\Baekjoon_remote\MazeSearch\MazeSearch.cpp(44,9): warning C4101: 'dists' :참조되지 않은 지역 변수입니다.
+  MazeSearch.vcxproj -> C:\Users\Kenny\Documents\Baekjoon_remote\x64\Debug\MazeSearch.exe
